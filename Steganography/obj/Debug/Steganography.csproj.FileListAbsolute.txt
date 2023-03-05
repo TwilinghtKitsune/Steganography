@@ -1,0 +1,10 @@
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Steganography\Steganography\bin\Debug\Steganography.exe.config
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Steganography\Steganography\bin\Debug\Steganography.exe
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Steganography\Steganography\bin\Debug\Steganography.pdb
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Steganography\Steganography\obj\Debug\Steganography.csproj.AssemblyReference.cache
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Steganography\Steganography\obj\Debug\Steganography.Form1.resources
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Steganography\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Steganography\Steganography\obj\Debug\Steganography.csproj.GenerateResource.cache
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Steganography\Steganography\obj\Debug\Steganography.csproj.CoreCompileInputs.cache
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Steganography\Steganography\obj\Debug\Steganography.exe
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Steganography\Steganography\obj\Debug\Steganography.pdb
